@@ -1,1 +1,3 @@
-# ds_sprint-4_project
+# ds_project_SDT
+
+This is Project 4 (on "Software Development Tools") of TripleTen's Data Science Bootcamp.
