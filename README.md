@@ -21,7 +21,6 @@ This project is a web-based dashboard for analyzing car sales data. It provides 
 - **Plotly Express** for interactive visualizations.
 
 # Links:
-
 - **Render**: https://casad.onrender.com/
 
 - **GitHub**: https://github.com/aralmariv1207/ds_project_SDT.git
