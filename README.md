@@ -16,7 +16,7 @@ This project is a web-based dashboard for analyzing car sales data. It provides 
      
 # Technologies Used
 - **Python**
-- **Pandas** for data manipulation
+- **Pandas** for data manipulation.
 - **Streamlit** for creating the web app.
 - **Plotly Express** for interactive visualizations.
 
