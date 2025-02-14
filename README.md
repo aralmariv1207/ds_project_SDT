@@ -22,7 +22,7 @@ This project is a web-based dashboard for analyzing car sales data. It provides 
 
 # Links:
 
-- **Render**: https://ds-project-sdt.onrender.com
+- **Render**: https://casad.onrender.com/
 
 - **GitHub**: https://github.com/aralmariv1207/ds_project_SDT.git
 
